@@ -1,162 +1,153 @@
-Table of Contents
-=================
+Content for SJS end users
 
-[Table of Contents 1](#table-of-contents)
+Questions, comments
 
-[Content for SJS end users 4](#content-for-sjs-end-users)
+How to use this guide
 
-[Questions, comments 4](#questions-comments)
+Introduction
 
-[How to use this guide 5](#how-to-use-this-guide)
+If you work in Technology
 
-[Introduction 5](#introduction)
+If you work outside Technology
 
-[If you work in Technology 5](#if-you-work-in-technology)
+Resources
 
-[If you work outside Technology 5](#if-you-work-outside-technology)
+Style guides
 
-[Resources 6](#resources)
+Sheridan Terms
 
-[Style guides 6](#style-guides)
+Approach
 
-[Sheridan Terms 6](#sheridan-terms)
+Principles for user content
 
-[Approach 7](#approach)
+Start with user needs
 
-[Principles for user content 8](#principles-for-user-content)
+Do the hard work to make it simple
 
-[Start with user needs 8](#start-with-user-needs)
+Write for the audience, not yourself
 
-[Do the hard work to make it simple 8](#do-the-hard-work-to-make-it-simple)
+Build trust with the reader
 
-[Write for the audience, not yourself 8](#write-for-the-audience-not-yourself)
+Start small and build big
 
-[Build trust with the reader 8](#build-trust-with-the-reader)
+Address your user
 
-[Start small and build big 8](#start-small-and-build-big)
-
-[Address your user 9](#address-your-user)
-
-[Content from Technology often asks the reader to do something or take some
+Content from Technology often asks the reader to do something or take some
 action
-9](#content-from-technology-often-asks-the-reader-to-do-something-or-take-some-action)
 
-[Avoid duplication 10](#avoid-duplication)
+Avoid duplication
 
-[Be concise 11](#be-concise)
+Be concise
 
-[Keep sentences and paragraphs short 11](#keep-sentences-and-paragraphs-short)
+Keep sentences and paragraphs short
 
-[linUse plain language 12](#linuse-plain-language)
+Use plain language
 
-[Our content should be as straightforward as possible
-12](#our-content-should-be-as-straightforward-as-possible)
+Our content should be as straightforward as possible
 
-[Words to avoid 12](#words-to-avoid)
+Words to avoid
 
-[What about legal terms? 14](#what-about-legal-terms)
+What about legal terms?
 
-[Structure the content 15](#structure-the-content)
+Structure the content
 
-[Important information first 15](#important-information-first)
+Important information first
 
-[Break up text 15](#break-up-text)
+Break up text
 
-[What about FAQs? 15](#what-about-faqs)
+What about FAQs?
 
-[Style 16](#style)
+Style
 
-[Active voice 17](#active-voice)
+Active voice
 
-[How to recognize the passive voice 17](#how-to-recognize-the-passive-voice)
+How to recognize the passive voice
 
-[When to use the passive voice 17](#when-to-use-the-passive-voice)
+When to use the passive voice
 
-[Present tense 18](#present-tense)
+Present tense
 
-[Capitalization 19](#capitalization)
+Capitalization
 
-[Follow a consistent capitalization scheme
-19](#follow-a-consistent-capitalization-scheme)
+Follow a consistent capitalization scheme
 
-[Headings 19](#headings)
+Headings
 
-[Punctuation 20](#punctuation)
+Punctuation
 
-[Bulleted lists 20](#bulleted-lists)
+Bulleted lists
 
-[Colons 20](#colons)
+Colons
 
-[Semicolons 20](#semicolons)
+Semicolons
 
-[Commas 20](#commas)
+Commas
 
-[Dashes 21](#dashes)
+Dashes
 
-[Quotes 21](#quotes)
+Quotes
 
-[Spaces 21](#spaces)
+Spaces
 
-[Ampersands or plus signs 21](#ampersands-or-plus-signs)
+Ampersands or plus signs
 
-[Slashes 21](#slashes)
+Slashes
 
-[Images 22](#images)
+Images
 
-[Common uses of imagery 22](#common-uses-of-imagery)
+Common uses of imagery
 
-[Copyrighted images 22](#copyrighted-images)
+Copyrighted images
 
-[Accessibility 22](#accessibility)
+Accessibility
 
-[Abbreviations and acronyms 24](#abbreviations-and-acronyms)
+Abbreviations and acronyms
 
-[Numbers and percentages 25](#numbers-and-percentages)
+Numbers and percentages
 
-[Numbers 25](#numbers)
+Numbers
 
-[Dates 25](#dates)
+Dates
 
-[Percentages 25](#percentages)
+Percentages
 
-[Word list 26](#word-list)
+Word list
 
-[Writing specific content 27](#writing-specific-content)
+Writing specific content
 
-[Headings and titles 28](#headings-and-titles)
+Headings and titles
 
-[Find the right keywords 28](#find-the-right-keywords)
+Find the right keywords
 
-[Optimize the content 28](#optimize-the-content)
+Optimize the content
 
-[Procedures 29](#procedures)
+Procedures
 
-[Here is a procedure from the ArticleExpress Help
-29](#here-is-a-procedure-from-the-articleexpress-help)
+Here is a procedure from the ArticleExpress Help
 
-[To invite a collaborator: 29](#to-invite-a-collaborator)
+To invite a collaborator:
 
-[Interface writing 30](#interface-writing)
+Interface writing
 
-[Basics 30](#basics)
+Basics
 
-[Do the hard work to make it simple 30](#do-the-hard-work-to-make-it-simple-1)
+Do the hard work to make it simple
 
-[Direct the reader 30](#direct-the-reader)
+Direct the reader
 
-[Guidelines 31](#guidelines)
+Guidelines
 
-[Titles and headings 31](#titles-and-headings)
+Titles and headings
 
-[Introduction 31](#introduction-1)
+Introduction
 
-[Interface elements 31](#interface-elements)
+Interface elements
 
-[User input 31](#user-input)
+User input
 
-[Command line items 31](#command-line-items)
+Command line items
 
-[Glossary 32](#glossary)
+Glossary
 
 Content for SJS end users
 =========================
@@ -405,8 +396,8 @@ Use:
 share updates when released. Remember that you are responsible to ensure you
 have the latest version.*
 
-linUse plain language
-=====================
+Use plain language
+==================
 
 Our content should be as straightforward as possible
 ----------------------------------------------------
@@ -888,7 +879,7 @@ explaining usage.
 -   **dialog** when used for interface items. It is a *dialog* box, not a
     *dialogue* box.
 
--   **drop-down** when used as an adjective. For example*, drop-down menu*.
+-   **drop-down** when used as an adjective. For example, *drop-down menu*.
     **drop down** when used as a noun. For example, a*n option from the drop
     down*. Never *dropdown*.
 
@@ -896,7 +887,7 @@ explaining usage.
 
 -   **internet**
 
--   **login** when used as noun, for example*, I forgot my login name and
+-   **login** when used as noun, for example, *I forgot my login name and
     password*, or when used as an adjective, for example *Make sure the login
     page is available.* **Log in** when used as a verb, for example, *Log in to
     edit the proof.*
@@ -1116,12 +1107,3 @@ Command line items should be in monospace, such as Courier, Consolas, or
 similar. Do not use italic for this form of user input.
 
 At the C: prompt, type the following: chkdsk /v /f and press **Enter**.
-
-Glossary
-========
-
-P
-
-pop-up
-
-Here's an example of a pop-up.
